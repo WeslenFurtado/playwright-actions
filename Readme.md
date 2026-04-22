@@ -32,3 +32,8 @@ npm install
 ```bash
 npx playwright test
 ```
+---
+
+## 📊 Objetivo
+
+Demonstrar a integração de testes automatizados com CI/CD utilizando Playwright e GitHub Actions.
