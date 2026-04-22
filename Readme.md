@@ -1,31 +1,34 @@
 ![CI](https://github.com/WeslenFurtado/playwright-actions/actions/workflows/main.yml/badge.svg)
 
-## Sobre
+# 🧪 Automação de Testes com Playwright + GitHub Actions
 
-Repositório do treinamento: Workflow de testes contínuos em Playwright no Github Actions
+## 📌 Sobre o projeto
+Este projeto demonstra a execução de testes automatizados utilizando Playwright integrados ao GitHub Actions (CI), garantindo validação contínua da aplicação.
 
-## Stacks
+---
+
+## 🚀 Tecnologias utilizadas
+
 - Playwright
 - TypeScript
-- Tesults
+- Node.js
+- GitHub Actions
 
-## Rodando
+---
 
-1. Clonar o repositório, instalar as dependências
+## ▶️ Como executar o projeto
+
+### 1. Clonar o repositório
+```bash
+git clone https://github.com/WeslenFurtado/playwright-actions.git
 ```
+
+### 2. Instalar dependências
+```bash
 npm install
 ```
 
-2. Executar testes em Headless
+### 3. Executar os testes
+```bash
+npx playwright test
 ```
-npx playwright test 
-```
-
-3. Executar ver o relatório dos testes
-```
-npx playwright show-report
-```
-
-<hr>
-Curso disponível em https://qaxperience.com
-
