@@ -1,4 +1,4 @@
-![poster](./.github/poster.png)
+![CI](https://github.com/WeslenFurtado/playwright-actions/actions/workflows/main.yml/badge.svg)
 
 ## Sobre
 
